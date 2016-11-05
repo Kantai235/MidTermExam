@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mid Term Exam</string>
+
+    <string-array name="splash_screen_title">
+        <item>你是嚕嚕米嗎？</item>
+        <item>什麼！你竟然不是嚕嚕米！？</item>
+        <item>這個遊戲的主角是嚕嚕米...</item>
+        <item>所以接下來你就要變成嚕嚕米...</item>
+        <item>首先，請你先靜下心來...</item>
+        <item>接著請專心的看著這顆水晶球...</item>
+        <item>變成嚕嚕米、變成嚕嚕米、變成嚕嚕米...</item>
+        <item>恭喜你變成嚕嚕米了－！！</item>
+    </string-array>
+
+</resources>
