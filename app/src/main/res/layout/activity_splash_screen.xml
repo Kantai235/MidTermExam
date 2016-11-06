@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:alpha="0.4"
         android:onClick="splashScreenClick"
-        android:scaleType="fitXY"
+        android:scaleType="centerCrop"
         app:srcCompat="@drawable/rurumi" />
 
     <com.hanks.htextview.HTextView

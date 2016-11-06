@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Mid Term Exam</string>
+    <string name="app_name">聽說是期中作業</string>
+
+    <string name="mainTitle">嚕嚕咪的首頁</string>
+    <string name="videoTitle">來看看嚕嚕咪嘛</string>
+    <string name="newsTitle">嚕嚕咪的大小事</string>
 
     <string-array name="splash_screen_title">
         <item>你是嚕嚕米嗎？</item>
@@ -11,5 +15,26 @@
         <item>變成嚕嚕米、變成嚕嚕米、變成嚕嚕米...</item>
         <item>恭喜你變成嚕嚕米了－！！</item>
     </string-array>
+
+    <string name="exit_dialog_title">Go to the 88.</string>
+    <string name="exit_dialog_fire">NOT</string>
+    <string name="exit_dialog_cancel">YEP</string>
+
+    <string name="toolbar_button">GitHub</string>
+
+    <string name="main_news_top_left">【重點新聞】嚕嚕咪在中正南路養小三搞偷吃？</string>
+    <string name="main_news_top_right_top">【頭條】驚爆！嚕嚕咪打小孩？</string>
+    <string name="main_news_top_right_bottom">【熱門】嚕嚕咪表示即將大開殺戒！</string>
+    <string name="main_news_bottom_left">【爆料】據傳乾太即將結婚？乾太避而不談。</string>
+    <string name="main_news_bottom_mid">【娛樂】在阿羅拉發現不同品種的嚕嚕咪了！</string>
+    <string name="main_news_bottom_right">【業配】原來嚕嚕咪這麼萌唷！？</string>
+
+    <string name="news_title">【業配】原來嚕嚕咪這麼萌唷！？</string>
+    <string name="news_subtitle">姆明一族（瑞典語：Mumintroll，芬蘭語：Muumi，英語：Moomins），又譯「慕敏」或「嚕嚕米」（臺灣民視），中央電視臺播出時譯作「莫咪的故事」，香港TVB為「小肥肥一族」，是芬蘭女作家朵貝·楊笙（Tove Marika Jansson）筆下的童話小說系列以及家族的名字。姆明家族身形圓潤，有著大大的鼻子，外形與河馬相類似。這個家族住在芬蘭森林裡的姆明谷（Muumin Valley）裡，過著無憂無慮的生活。他們及其朋友，對姆明谷附近的環境感到好奇，富有冒險精神，圍繞著他們的，是眾多千奇百怪的事件以及種種探險故事。
+
+《七兄弟》及《姆明一族》，是每個芬蘭人都讀過的故事，代表芬蘭精神和國家認同定位。[1] 1945至1993年間，共發布了9部姆明系列的外文小說、5部畫集及1部連環畫。
+
+此外，姆明一族故事被改編成一系列的動畫。在芬蘭的Naantali地方，亦設有以姆明為主題的公園「Moomin World」。姆明一族的形象，亦被製成眾多的大眾產品，包括文具、玩具及飾物等。</string>
+
 
 </resources>

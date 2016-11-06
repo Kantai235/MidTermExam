@@ -38,10 +38,11 @@ public class SplashScreenActivity extends AppCompatActivity {
         } else {
             Intent intent = new Intent();
             intent.setClass(this, MainActivity.class);
-            this.mediaPlayer.stop();
             startActivity(intent);
-            overridePendingTransition(R.animator.fadein, R.animator.fadeout);
             finish();
+            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+
+            this.mediaPlayer.stop();
         }
     }
 

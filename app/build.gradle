@@ -26,6 +26,12 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.beardedhen:androidbootstrap:2.3.0'
+
+    // HTextView 動畫
     compile 'hanks.xyz:htextview-library:0.1.5'
+
+    // Navigation Bar UI
+    compile 'com.roughike:bottom-bar:2.0.2'
+
     testCompile 'junit:junit:4.12'
 }

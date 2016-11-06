@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        barColorWhenSelected="@color/bootstrap_brand_danger"
+        icon="@android:drawable/ic_menu_myplaces"
+        id="@+id/tab_1"
+        title="我的收藏(紅色)" />
+    <tab
+        barColorWhenSelected="@color/bootstrap_brand_warning"
+        icon="@android:drawable/ic_menu_edit"
+        id="@+id/tab_2"
+        title="我的收藏(黃色)" />
+    <tab
+        barColorWhenSelected="@color/bootstrap_brand_success"
+        icon="@android:drawable/ic_menu_compass"
+        id="@+id/tab_3"
+        title="我的收藏(綠色)" />
+    <tab
+        barColorWhenSelected="@color/bootstrap_brand_info"
+        icon="@android:drawable/ic_menu_manage"
+        id="@+id/tab_4"
+        title="我的收藏(藍色)" />
+</tabs>
