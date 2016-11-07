@@ -25,6 +25,8 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
+
+    // Bootstrap
     compile 'com.beardedhen:androidbootstrap:2.3.0'
 
     // HTextView 動畫
