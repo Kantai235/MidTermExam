@@ -6,6 +6,10 @@
 # 成品畫面
 ![Demo](images/2.png)
 
+# 簡報說明
+
+https://app.slidebean.com/p/1nTcPAU1eY/App-20161110
+
 # 移除 ActionBar
 為了客製化 ToolBar，讓我們可以自定義 ToolBar 的樣式及功能，所以我們必須定義全部 Layout 不要 ActionBar，因此要優改 res/values/styles.xml：
 

@@ -21,7 +21,9 @@ public class SplashScreenActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
+        // 指定你的音樂
         this.mediaPlayer = MediaPlayer.create(getApplicationContext(), R.raw.background_sound);
+        // 播放
         this.mediaPlayer.start();
 
         this.sentences = getResources().getStringArray(R.array.splash_screen_title);
